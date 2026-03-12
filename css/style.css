@@ -46,7 +46,7 @@ nav {
   transition: background 0.3s;
 }
 .nav-logo { display: flex; align-items: center; text-decoration: none; }
-.nav-logo img { height: 36px; width: auto; object-fit: contain; }
+.nav-logo img { height: 48px; width: auto; object-fit: contain; }
 .nav-links { display: flex; gap: 40px; list-style: none; }
 .nav-links a {
   font-family: 'Outfit', sans-serif;
@@ -710,7 +710,7 @@ footer {
 }
 .footer-logo { display: flex; align-items: center; text-decoration: none; }
 .footer-logo img {
-  height: 28px; width: auto;
+  height: 44px; width: auto;
   opacity: 0.7;
   filter: brightness(0) invert(1);
 }
