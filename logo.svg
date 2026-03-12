@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&amp;family=Noto+Sans+JP:wght@300&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- X Monogram -->
+  <!-- Main strokes -->
+  <line x1="8"  y1="8"  x2="88" y2="96" stroke="#1a2540" stroke-width="7"   stroke-linecap="round"/>
+  <line x1="88" y1="8"  x2="8"  y2="96" stroke="#1a2540" stroke-width="7"   stroke-linecap="round"/>
+  <!-- Parallel accent lines -->
+  <line x1="20" y1="8"  x2="100" y2="96" stroke="#1a2540" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="76" y1="8"  x2="0"  y2="92" stroke="#2d4a7a" stroke-width="2.2" stroke-linecap="round"/>
+
+  <!-- Wordmark: STRUCTURA -->
+  <text
+    x="116" y="66"
+    font-family="'Outfit', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="500"
+    font-size="42"
+    letter-spacing="6"
+    fill="#1a2540"
+  >STRUCTURA</text>
+
+  <!-- Sub: ストラクチュラ -->
+  <text
+    x="119" y="92"
+    font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif"
+    font-weight="300"
+    font-size="15"
+    letter-spacing="4"
+    fill="#1a2540"
+    opacity="0.65"
+  >ストラクチュラ</text>
+</svg>
